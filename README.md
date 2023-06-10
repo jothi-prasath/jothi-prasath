@@ -4,6 +4,8 @@ I am Jothi Prasath, a Developer, Desinger and Linux enthusiast.
 
 I'm familiar with tech like **Python**, **C**, **HTML**, **CSS**, **Javascript**, **Shell Scripting** and **Electron** for cross-platform desktop apps, **Ansible** for automation and configuration management.
 
+I actively contribute to open-source projects and believe in the power of collaboration and sharing knowledge. I'm always looking for opportunities to contribute to exciting projects and expand my skill set.
+
 Feel free to explore my GitHub repositories to see some of my projects and contributions. If you have any questions or would like to collaborate, don't hesitate to reach out.
 
 
