@@ -23,10 +23,10 @@ Feel free to explore my GitHub repositories to see some of my projects and contr
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jothi-prasath&no-bg=true&row=1&column=9)
 
-<center>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jothi-prasath/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jothiprasath2@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jothiprasath4)
 
-</center>
+</div>
