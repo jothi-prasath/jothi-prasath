@@ -21,7 +21,7 @@ Feel free to explore my GitHub repositories to see some of my projects and contr
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jothi-prasath&no-bg=true&row=1&column=9)
+![trophy](https://github-profile-trophy.vercel.app/?username=jothi-prasath&theme=darkhub&row=1&column=9)
 
 <div align="center">
 
