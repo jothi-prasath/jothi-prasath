@@ -20,9 +20,13 @@ Feel free to explore my GitHub repositories to see some of my projects and contr
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jothi-prasath&theme=transparent" />
   </a>
 </p>
-  
-<p align="center">
-  <a href= "https://www.linkedin.com/in/jothi-prasath/"><img src="https://img.icons8.com/color/linkedin" /></a>
-  <a href= "mailto:jothiprasath2@gmail.com"><img src="https://img.icons8.com/color/gmail" /></a>
-  <a href= "https://twitter.com/Jothiprasath4"><img src="https://img.icons8.com/color/twitter" /></a>
-</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=jothi-prasath&no-bg=true&row=1&column=9)
+
+<center>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jothi-prasath/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jothiprasath2@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jothiprasath4)
+
+</center>
